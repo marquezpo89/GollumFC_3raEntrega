@@ -1,0 +1,19 @@
+# Lista de objetos a ignorar
+
+# Ignora archivos
+
+
+# Ignora grupos de archivos
+
+
+# Ignora carpetas
+
+node_modules
+
+# Ignora subcarpetas
+
+nombrecarpeta/nombrearchivo
+
+nombrecarpeta/subcarpeta
+
+
